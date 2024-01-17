@@ -19,4 +19,4 @@ const renderPokemon = async (pokemon) => {
 
 }
 
-renderPokemon('1');
+renderPokemon('8');
